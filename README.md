@@ -23,7 +23,6 @@ Project Description:
 “Find the number” is basically a number guessing game. It will have easy mode and hard mode. The game will randomly provide a number A which the user cannot see. In order to pass the game, user has to guess the number and input a number B. If the number B is larger than the number A. The app will output “the number is large”. If the number B is smaller than the number A. the app will output “the number is small”. The user will be giving some chances. If the user passes the game, the app will show a winning page. If the user does not pass the game. The app will show a lost gage.
 
 Requirements Definition:  
-
 The game will inquire the user for their name, then it will create an account with that name.  
 The game will have three different modes which are easy, normal and hard.  
 In the easy mode, the game will randomly create a number between 1 to 10 and the user will have 3 chances to find out the number.  
